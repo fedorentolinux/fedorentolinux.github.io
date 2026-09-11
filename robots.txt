@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fedorento.github.io/sitemap.xml
+Sitemap: https://fedorentolinux.github.io/sitemap.xml
