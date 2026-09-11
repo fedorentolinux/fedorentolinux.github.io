@@ -1,0 +1,177 @@
+{
+  "site": {
+    "name": "Fedorento",
+    "tagline": "Cheio de Fedora. Cheio de possibilidades.",
+    "description": "Uma distribuição Linux brasileira que une software livre, tecnologia e natureza.",
+    "version": "1.0",
+    "codename": "Maracajá",
+    "releaseLabel": "FEDORENTO 1.0 — MARACAJÁ",
+    "accent": "#c9944d"
+  },
+  "hero": {
+    "eyebrow": "Uma distribuição brasileira, livre por natureza",
+    "title": "Tecnologia que respira",
+    "highlight": "Mata Atlântica.",
+    "body": "Conheça o Fedorento Linux 1.0 — Maracajá: uma experiência simples, segura e acessível, construída sobre a liberdade do Fedora.",
+    "primaryCta": "Conheça o projeto",
+    "secondaryCta": "Baixar Fedorento",
+    "image": "assets/images/hero.webp"
+  },
+  "about": {
+    "eyebrow": "Sobre o projeto",
+    "title": "Cheio de Fedora. Não de odor.",
+    "body": "O nome Fedorento nasce de um trocadilho carinhoso: o sufixo “ento” significa “cheio de”. Ou seja, Fedorento é um sistema cheio de Fedora — cheio de software livre, comunidade e possibilidades para quem quer usar tecnologia com autonomia.",
+    "quote": "Software livre • Tecnologia • Natureza brasileira"
+  },
+  "release": {
+    "title": "Fedorento 1.0 — Maracajá",
+    "body": "A primeira versão da distribuição homenageia o gato-maracajá, felino brasileiro associado às florestas da Mata Atlântica do Sul do Brasil.",
+    "version": "1.0",
+    "codename": "Maracajá",
+    "architecture": "64-bit",
+    "base": "Fedora Linux",
+    "releaseDate": "Em breve",
+    "isoSize": "Em breve",
+    "checksum": "Em breve"
+  },
+  "download": {
+    "title": "Leve a liberdade com você",
+    "body": "Os arquivos oficiais de download serão disponibilizados em breve. Enquanto isso, acompanhe o projeto e prepare seu equipamento.",
+    "isoLabel": "ISO oficial",
+    "isoLink": "",
+    "checksumLabel": "SHA256",
+    "checksumLink": "",
+    "notes": "Notas da versão: em breve"
+  },
+  "features": [
+    {
+      "eyebrow": "01",
+      "title": "Software livre",
+      "description": "Uma base aberta, transparente e construída para respeitar a sua liberdade.",
+      "icon": "leaf"
+    },
+    {
+      "eyebrow": "02",
+      "title": "Tecnologia",
+      "description": "Uma experiência atual, segura e preparada para o que vem pela frente.",
+      "icon": "cpu"
+    },
+    {
+      "eyebrow": "03",
+      "title": "Fácil de usar",
+      "description": "Simplicidade desde o primeiro boot, para aprender, criar e trabalhar.",
+      "icon": "sparkles"
+    },
+    {
+      "eyebrow": "04",
+      "title": "Multimídia",
+      "description": "Um ambiente pronto para você ouvir, assistir, editar e compartilhar.",
+      "icon": "play"
+    },
+    {
+      "eyebrow": "05",
+      "title": "Hardware",
+      "description": "Uma plataforma sólida para diferentes máquinas e diferentes histórias.",
+      "icon": "monitor"
+    },
+    {
+      "eyebrow": "06",
+      "title": "Educação",
+      "description": "Conhecimento aberto para transformar curiosidade em autonomia.",
+      "icon": "book"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "O maracajá",
+      "category": "Wallpaper 01 · principal",
+      "src": "assets/images/hero.webp",
+      "alt": "Gato-maracajá na floresta, wallpaper oficial do Fedorento"
+    },
+    {
+      "title": "A área de trabalho",
+      "category": "Screenshot do sistema",
+      "src": "assets/images/system-screen.webp",
+      "alt": "Área de trabalho do Fedorento Linux 1.0"
+    },
+    {
+      "title": "Mata Atlântica",
+      "category": "Wallpaper 02",
+      "src": "assets/images/wallpaper-02.webp",
+      "alt": "Wallpaper alternativo do Fedorento Maracajá"
+    },
+    {
+      "title": "Verde profundo",
+      "category": "Wallpaper 03",
+      "src": "assets/images/wallpaper-03.webp",
+      "alt": "Wallpaper alternativo do Fedorento Maracajá"
+    },
+    {
+      "title": "Caminhos livres",
+      "category": "Wallpaper 04",
+      "src": "assets/images/wallpaper-04.webp",
+      "alt": "Wallpaper alternativo do Fedorento Maracajá"
+    },
+    {
+      "title": "Noite na floresta",
+      "category": "Wallpaper 05",
+      "src": "assets/images/wallpaper-05.webp",
+      "alt": "Wallpaper alternativo do Fedorento Maracajá"
+    }
+  ],
+  "docs": [
+    {
+      "title": "Instalação",
+      "description": "Guia para preparar o computador e instalar o sistema.",
+      "label": "Em breve",
+      "link": ""
+    },
+    {
+      "title": "Primeiros passos",
+      "description": "Tudo o que você precisa saber depois do primeiro boot.",
+      "label": "Em breve",
+      "link": ""
+    },
+    {
+      "title": "Perguntas frequentes",
+      "description": "Respostas rápidas sobre o Fedorento Maracajá.",
+      "label": "Em breve",
+      "link": ""
+    }
+  ],
+  "news": [
+    {
+      "title": "Nasce o Fedorento Linux",
+      "summary": "Um novo projeto brasileiro começa a unir Fedora, natureza e liberdade.",
+      "date": "Em breve",
+      "link": ""
+    }
+  ],
+  "community": [
+    {
+      "label": "GitHub",
+      "description": "Código-fonte e desenvolvimento",
+      "link": ""
+    },
+    {
+      "label": "Fórum",
+      "description": "Trocas e suporte da comunidade",
+      "link": ""
+    },
+    {
+      "label": "Documentação",
+      "description": "Guias para aprender e contribuir",
+      "link": ""
+    }
+  ],
+  "developer": {
+    "name": "Fábio Dias Silveira",
+    "email": "fedorendolinux@gmail.com"
+  },
+  "assets": {
+    "logo": "assets/images/logo-lockup.webp",
+    "icon": "assets/images/icon.webp",
+    "hero": "assets/images/hero.webp",
+    "systemScreen": "assets/images/system-screen.webp"
+  }
+}
