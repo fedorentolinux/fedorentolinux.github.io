@@ -29,21 +29,19 @@
     "version": "1.0",
     "codename": "Maracajá",
     "architecture": "64-bit",
-    "base": "Fedora Linux",
-    "releaseDate": "Em breve",
-    "isoSize": "Em breve",
+    "base": "Fedora Linux 45",
+    "releaseDate": "Disponível",
+    "isoSize": "Ver download",
     "checksum": "Em breve"
   },
   "download": {
     "title": "Leve a liberdade com você",
-    "body": "Os arquivos oficiais de download serão disponibilizados em breve. Enquanto isso, acompanhe o projeto e prepare seu equipamento. ",
+    "body": "Baixe a ISO oficial do Fedorento 1.0 — Maracajá e leve a liberdade do software livre para o seu computador.",
     "isoLabel": "ISO oficial",
     "isoLink": "https://drive.google.com/file/d/1UZ70yCTM97l6HDlQNg_uUbuNjo9GTCI-/view?usp=drive_link",
     "checksumLabel": "SHA256",
     "checksumLink": "",
-    "notes": "Notas da versão: Fedorento Linux 1.0 — Maracajá
-
-A primeira versão estável do Fedorento, baseada no Fedora Linux 45.Traz a experiência completa do Fedora mais recente (GNOME 51, kernel 7.2, Python 3.15, segurança reforçada com verificação de assinaturas e kmscon) combinada com a Central Fedorento — um painel simples em português brasileiro para configurar impressoras, compartilhamento de arquivos, atualizações e criação de sistemas personalizados com poucos cliques.Feito no Brasil, para o Brasil. Cheio de Fedora. Cheio de possibilidades."
+    "notes": "Notas da versão: Fedorento Linux 1.0 — Maracajá\n\nA primeira versão estável do Fedorento, baseada no Fedora Linux 45.\n\nTraz a experiência completa do Fedora mais recente (GNOME 51, kernel 7.2, Python 3.15, segurança reforçada com verificação de assinaturas e kmscon) combinada com a Central Fedorento — um painel simples em português brasileiro para configurar impressoras, compartilhamento de arquivos, atualizações e criação de sistemas personalizados com poucos cliques.\n\nFeito no Brasil, para o Brasil. Cheio de Fedora. Cheio de possibilidades."
   },
   "features": [
     {
